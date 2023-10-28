@@ -1,3 +1,5 @@
+// Algoritmo para gerar a sequência de Fibonacci, onde cada número é a soma dos dois anteriores.
+
 function fibonacciSequence(sequenceSize) {
   let currentSequence = 1,
     previousSequence = 0;
